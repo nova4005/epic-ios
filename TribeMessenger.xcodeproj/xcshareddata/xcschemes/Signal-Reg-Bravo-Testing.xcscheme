@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
    LastUpgradeVersion = "1320"
-   version = "1.3">
+   version = "1.8">
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
@@ -17,7 +17,7 @@
                BlueprintIdentifier = "D221A088169C9E5E00537ABF"
                BuildableName = "Signal.app"
                BlueprintName = "Signal"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "4C10B17F23176D250099396B"
                BuildableName = "SignalPerformanceTests.xctest"
                BlueprintName = "SignalPerformanceTests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,7 +47,7 @@
             BlueprintIdentifier = "D221A088169C9E5E00537ABF"
             BuildableName = "Signal.app"
             BlueprintName = "Signal"
-            ReferencedContainer = "container:Signal.xcodeproj">
+            ReferencedContainer = "container:TribeMessenger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <EnvironmentVariables>
@@ -65,7 +65,7 @@
                BlueprintIdentifier = "D221A0A9169C9E5F00537ABF"
                BuildableName = "SignalTests.xctest"
                BlueprintName = "SignalTests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -95,7 +95,7 @@
                BlueprintIdentifier = "4C10B17F23176D250099396B"
                BuildableName = "SignalPerformanceTests.xctest"
                BlueprintName = "SignalPerformanceTests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -105,7 +105,7 @@
                BlueprintIdentifier = "34A954B0271A471300B05242"
                BuildableName = "SignalUITests.xctest"
                BlueprintName = "SignalUITests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -115,7 +115,7 @@
                BlueprintIdentifier = "F9C5C89D289451B900548EEE"
                BuildableName = "SignalServiceKitTests.xctest"
                BlueprintName = "SignalServiceKitTests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
             <SkippedTests>
                <Test
@@ -145,7 +145,7 @@
             BlueprintIdentifier = "D221A088169C9E5E00537ABF"
             BuildableName = "Signal.app"
             BlueprintName = "Signal"
-            ReferencedContainer = "container:Signal.xcodeproj">
+            ReferencedContainer = "container:TribeMessenger.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
@@ -200,7 +200,7 @@
             BlueprintIdentifier = "D221A088169C9E5E00537ABF"
             BuildableName = "Signal.app"
             BlueprintName = "Signal"
-            ReferencedContainer = "container:Signal.xcodeproj">
+            ReferencedContainer = "container:TribeMessenger.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -212,4 +212,3 @@
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
-

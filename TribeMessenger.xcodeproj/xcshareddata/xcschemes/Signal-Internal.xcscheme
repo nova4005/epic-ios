@@ -17,7 +17,7 @@
                BlueprintIdentifier = "D221A088169C9E5E00537ABF"
                BuildableName = "Signal.app"
                BlueprintName = "Signal"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,7 +33,7 @@
             BlueprintIdentifier = "D221A088169C9E5E00537ABF"
             BuildableName = "Signal.app"
             BlueprintName = "Signal"
-            ReferencedContainer = "container:Signal.xcodeproj">
+            ReferencedContainer = "container:TribeMessenger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -44,7 +44,7 @@
                BlueprintIdentifier = "34A954B0271A471300B05242"
                BuildableName = "SignalUITests.xctest"
                BlueprintName = "SignalUITests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -54,7 +54,7 @@
                BlueprintIdentifier = "F9C5C89D289451B900548EEE"
                BuildableName = "SignalServiceKitTests.xctest"
                BlueprintName = "SignalServiceKitTests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -76,7 +76,7 @@
             BlueprintIdentifier = "D221A088169C9E5E00537ABF"
             BuildableName = "Signal.app"
             BlueprintName = "Signal"
-            ReferencedContainer = "container:Signal.xcodeproj">
+            ReferencedContainer = "container:TribeMessenger.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -105,7 +105,7 @@
             BlueprintIdentifier = "D221A088169C9E5E00537ABF"
             BuildableName = "Signal.app"
             BlueprintName = "Signal"
-            ReferencedContainer = "container:Signal.xcodeproj">
+            ReferencedContainer = "container:TribeMessenger.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

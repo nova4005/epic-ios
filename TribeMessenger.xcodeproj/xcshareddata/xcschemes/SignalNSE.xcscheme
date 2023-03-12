@@ -18,7 +18,7 @@
                BlueprintIdentifier = "342FFE8727245850000AC89F"
                BuildableName = "SignalNSE.appex"
                BlueprintName = "SignalNSE"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -32,7 +32,7 @@
                BlueprintIdentifier = "D221A088169C9E5E00537ABF"
                BuildableName = "Signal.app"
                BlueprintName = "Signal"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -50,7 +50,7 @@
                BlueprintIdentifier = "F9C5C89D289451B900548EEE"
                BuildableName = "SignalServiceKitTests.xctest"
                BlueprintName = "SignalServiceKitTests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "D221A088169C9E5E00537ABF"
             BuildableName = "Signal.app"
             BlueprintName = "Signal"
-            ReferencedContainer = "container:Signal.xcodeproj">
+            ReferencedContainer = "container:TribeMessenger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -101,7 +101,7 @@
             BlueprintIdentifier = "342FFE8727245850000AC89F"
             BuildableName = "SignalNSE.appex"
             BlueprintName = "SignalNSE"
-            ReferencedContainer = "container:Signal.xcodeproj">
+            ReferencedContainer = "container:TribeMessenger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

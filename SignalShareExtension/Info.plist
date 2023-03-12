@@ -33,6 +33,13 @@
 				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
 				<false/>
 			</dict>
+			<key>epicteq.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
 			<key>signal.org</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>

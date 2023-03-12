@@ -19,7 +19,7 @@
                BlueprintIdentifier = "4C10B17F23176D250099396B"
                BuildableName = "SignalPerformanceTests.xctest"
                BlueprintName = "SignalPerformanceTests"
-               ReferencedContainer = "container:Signal.xcodeproj">
+               ReferencedContainer = "container:TribeMessenger.xcodeproj">
             </BuildableReference>
             <SkippedTests>
                <Test
